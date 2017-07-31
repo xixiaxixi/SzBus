@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SzBus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_result">搜索结果</string>
+    <string name="title_activity_line_infomation">查询结果</string>
+    <string name="title_about_dialog">关于</string>
+    <string name="content_about_dialog">
+        "啊啊啊，还要学车，得靠科二，好烦呐\n"
+        "话说苏州天气真是热呢，真是心累\n"
+        "准大二啦，也不是计算机专业的，不过有点关联\n"
+        "may3377@dingtalk.com\n"
+        "希希啊希希\n"
+        "2017.7.29"
+    </string>
+</resources>

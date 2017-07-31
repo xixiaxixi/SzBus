@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="xixiaxixi.szbus.SearchActivity">
+    <item android:id="@+id/action_change_direction"
+          android:title="换向"
+          android:orderInCategory="1"
+          app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_put_into_favourites"
+          android:title="收藏"
+          android:orderInCategory="2"
+          app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_refresh"
+          android:title="刷新"
+          android:orderInCategory="3"
+          app:showAsAction="ifRoom"/>
+</menu>
